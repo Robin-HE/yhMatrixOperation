@@ -1,0 +1,8 @@
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhComp102501\yhComp102501\bin\yhComp.dll
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhComp102501\yhComp102501\bin\yhComp.pdb
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhComp102501\yhComp102501\obj\Debug\yhCompFEM1025.csprojAssemblyReference.cache
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhComp102501\yhComp102501\obj\Debug\yhComp.Properties.Resources.resources
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhComp102501\yhComp102501\obj\Debug\yhCompFEM1025.csproj.GenerateResource.cache
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhComp102501\yhComp102501\obj\Debug\yhCompFEM1025.csproj.CoreCompileInputs.cache
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhComp102501\yhComp102501\obj\Debug\yhComp.dll
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhComp102501\yhComp102501\obj\Debug\yhComp.pdb

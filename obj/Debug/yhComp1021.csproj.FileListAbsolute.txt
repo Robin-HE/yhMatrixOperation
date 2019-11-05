@@ -1,0 +1,6 @@
+C:\Users\ypHE\Desktop\CSharpCodeCollect\GridShellProject\GridShell\yhComp1021\bin\yhComp.dll
+C:\Users\ypHE\Desktop\CSharpCodeCollect\GridShellProject\GridShell\yhComp1021\bin\yhComp.pdb
+C:\Users\ypHE\Desktop\CSharpCodeCollect\GridShellProject\GridShell\yhComp1021\obj\Debug\yhComp.Properties.Resources.resources
+C:\Users\ypHE\Desktop\CSharpCodeCollect\GridShellProject\GridShell\yhComp1021\obj\Debug\yhComp1021.csproj.GenerateResource.cache
+C:\Users\ypHE\Desktop\CSharpCodeCollect\GridShellProject\GridShell\yhComp1021\obj\Debug\yhComp.dll
+C:\Users\ypHE\Desktop\CSharpCodeCollect\GridShellProject\GridShell\yhComp1021\obj\Debug\yhComp.pdb
